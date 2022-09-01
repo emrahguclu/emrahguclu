@@ -4,7 +4,7 @@
 - 💬 Bana Logo Objects ve Logo veritabanı ile ilgili konularda sorular sorabilir, destek isteyebilirsiniz.
 - 📫 E-posta adresim: <a href="mailto:mrhgcl@gmail.com">mrhgcl@gmail.com</a>
 - ⚡ Kod parçacıkları için: <a href="https://gist.github.com/emrahguclu">https://gist.github.com/emrahguclu</a>
-
+- 🔗 <a href="https://www.hackerrank.com/emrahguclu">HackerRank</a> | <a href="https://www.linkedin.com/in/emrahguclu/">Linkedin</a>
 <!--
 **emrahguclu/emrahguclu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
